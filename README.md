@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on geoscience data advance processing.
+- 🔭 I’m currently working on geoscience advanced data processing.
 - 🌱 I’m currently learning machine learning and artificial intelligence.
 - 👯 I’m looking to collaborate on developing tools and best practice in machine learning
 - 📫 How to reach me: I'm best reached via email. I'm always open to interesting conversations and collaboration.
