@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I have been traveling and working to many countries in order to find new potential oil and gas reservoir.
 -->
 
-Here are some ideas to get you started:
+I'm a writer, geoscientist and machine learning enthisiast.
 
 - 🔭 I’m currently working on geoscience data advance processing.
 - 🌱 I’m currently learning machine learning and artificial intelligence.
